@@ -1,4 +1,3 @@
 # presentaciones-equipo
 
-holaaaaaaaaaaaaa
-
+- Eduardo: Soy parte del equipo y me gusta trabajar en proyectos colaborativos.
