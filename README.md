@@ -8,5 +8,5 @@
 
 - Ángeles: Hola, soy Ángeles y soy integrante del equipo. Me gusta la parte del diseño gráfico en los proyectos.
 
-- Edwin: Soy Edwin y me gusta el FC Barcelona 
+- Edwin: Soy Edwin y me gusta mucho programar :D
 
